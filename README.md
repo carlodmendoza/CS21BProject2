@@ -4,8 +4,8 @@ Undertale-Themed Tile Matching Memory Game
 
 ## Authorship
 
-Project by: Carlo Mendoza and Gener Angelo Lopez
-CS 21B, 2015-2016
+Project by: Carlo Mendoza and Gener Angelo Lopez</br>
+CS 21B, 2015-2016</br>
 Theme based on UNDERTALE by Toby Fox. Assets under fair use.
 
 ## Description
@@ -16,7 +16,7 @@ MEMORY GAME is exactly what it is - players match pairs of tiles. In 2-Player mo
 
 ### Build Instructions
 
-Run `BuildAll.bat`.
+	Run `BuildAll.bat`.
 
 ### Server Instructions (only if playing in 2-Player)
 
@@ -30,8 +30,8 @@ Run `BuildAll.bat`.
 
 2. A menu will pop up giving an option between Single Player and 2-Player modes. Select the desired game mode.
 
-3. Enter the information needed.
-For Single Player: player name only
+3. Enter the information needed.</br>
+For Single Player: player name only</br>
 For 2-Player: server IP address and player name
 
 4. Once the name has been entered or both players have connected, the game will start.
