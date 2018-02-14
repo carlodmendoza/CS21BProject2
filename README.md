@@ -24,7 +24,7 @@ MEMORY GAME is exactly what it is - players match pairs of tiles. In 2-Player mo
 
 2. Keep the server program open for the clients to connect.
 
-### Client Instructions:
+### Client Instructions
 
 1. Run `runPlayer.bat`.
 
